@@ -1,0 +1,26 @@
+p {
+    width: 100px;
+    height: 100px;
+    background: darkblue;
+}
+
+#wybrany1{
+    background: aquamarine;
+}
+
+#wybrany2{
+    background: olivedrab;
+}
+
+#wybrany3{
+    background: palegreen;
+}
+
+#wybrany4{
+    opacity: 0.50;
+}
+
+#wybrany5{
+    opacity: 0.25;
+}
+
